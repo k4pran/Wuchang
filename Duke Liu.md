@@ -1,0 +1,1 @@
+Ordered the [[Ming]] army to advance on [[Worship's Rise]], seemingly to defend the [[Shu Sanctum]] priests and residents

@@ -1,0 +1,1 @@
+[[Qiao Ying]] said [[Qiao Lin]] took part in a ritual at this courtyard

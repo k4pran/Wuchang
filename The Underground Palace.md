@@ -1,0 +1,1 @@
+[[Huang Jian'e]] and the taoists headed here to seek rare materials to refine their elixers, but came across [[The Great Centipede]] that killed all but [[Huang Jian'e]] when they tried to exorcise it

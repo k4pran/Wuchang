@@ -1,0 +1,1 @@
+An old man met at a cave near [[Lightzen Temple]] and introduced [[Wuchang]] to [[Panda]]

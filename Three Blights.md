@@ -1,0 +1,1 @@
+A name for three infestations of [[Shu]], the first [[The Brigand Massacre]], the second [[Golden Bandits]], the third the [[Feathering]]

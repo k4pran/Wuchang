@@ -1,0 +1,1 @@
+Owned [[The Trinity Bell]] which has the ability to dispel madness

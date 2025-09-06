@@ -1,0 +1,1 @@
+A notorious gang, their infestation of [[Shu]] was known as one of the [[Three Blights]]

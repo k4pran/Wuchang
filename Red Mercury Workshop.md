@@ -1,0 +1,1 @@
+A secret location underneath [[Shu Sanctum]] where [[Lu Bingzhang]] did experiments with [[Red Mercury]]

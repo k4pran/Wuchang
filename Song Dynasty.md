@@ -1,0 +1,1 @@
+A dynasty that [[Guo Xi]] painted in

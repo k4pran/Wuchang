@@ -1,0 +1,1 @@
+Defeated [[Prince Su]] in battle

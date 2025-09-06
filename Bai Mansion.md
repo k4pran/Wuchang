@@ -1,0 +1,1 @@
+[[Wuchang]] receive the **Ancient Chisel** here and been carrying it since

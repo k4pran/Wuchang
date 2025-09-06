@@ -1,0 +1,1 @@
+Mentioned in a poem in the [[Bandit Caves]] that "The incense burns clean, the alter shines bright, [[Dharma]]'s realm glows with divine light"

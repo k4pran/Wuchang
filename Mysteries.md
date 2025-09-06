@@ -1,0 +1,7 @@
+- Quote from a murial says "Mysty [[Shu]] peaks hide secret paths, while my heart's call echoes in the cuckoos cry"
+- Letter from [[Honglan]] about [[Burning Cave]]
+- The [[Shu Sanctum]] key has "Great Feathered One" and "[[Bo]]" carved into it
+- A woman (maybe [[Wan]]) at **[[Bamboo Courtyard]]** (think its called that) in [[Worship's Rise]] said a mad monk took her brother and mother to the courtyard where the theatre troupe is, her father went after them but didn't come back. Found the [[Yang Zongbao]] dough figuring and give it to her. Her father promised to give it to her when she returned so she realises he is dead. Plans to go to the [[Reverent Temple]]
+- After beating a boss it says "Sankhara [[Wuchang]]", is that he full name or something else?
+- The centipede Says "Why did you betray me sister", who was he referring to ? [[Wuchang]]?
+- Golden statue near [[Shu Sanctum]] says ""The ebb and flow of karma... it's something you must face alone. Stand before the deities statue and conquer the demons within"

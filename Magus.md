@@ -1,0 +1,1 @@
+Mentioned on "**Clerical Robes**" that [[Lu Bingzhang]] devotion drew rhw [[Magus]]'s whispers and bound him to [[Feathering]]

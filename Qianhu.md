@@ -1,0 +1,1 @@
+Tall man at [[Reverent Temple]] who doesn't speak

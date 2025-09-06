@@ -1,0 +1,1 @@
+One of the [[Three Blights]] to come upon [[Shu]]

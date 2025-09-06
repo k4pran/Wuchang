@@ -1,0 +1,292 @@
+/* node_modules/@obsidian-ai-providers/sdk/dist/styles.css */
+.ai-providers-notice {
+  margin: 0 -1em 1em;
+  padding: 1em;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-m);
+  background-color: var(--background-secondary);
+  color: var(--text-muted);
+  font-size: var(--font-small);
+  line-height: var(--line-height-tight);
+}
+.ai-providers-notice p {
+  margin: 0;
+  margin-bottom: 0.5em;
+}
+.ai-providers-notice p:last-child {
+  margin-bottom: 0;
+}
+.ai-providers-select > .setting-item-info {
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+.ai-providers-select > .setting-item-control {
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-basis: 50%;
+  max-width: 50%;
+}
+.ai-providers-select > .setting-item-control .dropdown {
+  max-width: 100%;
+}
+
+/* styles.css */
+.local-gpt-settings-separator {
+  margin: 1em 0;
+  height: 1em;
+}
+.local-gpt-advanced-toggle {
+  margin-top: 1.5em;
+  border: 0;
+}
+.local-gpt-advanced-group {
+  margin-top: 0.75em;
+  padding: 1em;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: var(--radius-m);
+}
+.local-gpt-advanced-group > h4 {
+  margin: 0 0 0.75em;
+  font-weight: 700;
+}
+.local-gpt-advanced-group .setting-item {
+  border-top: 1px solid var(--background-modifier-border);
+  margin-top: 0.5em;
+  padding-top: 0.5em;
+}
+.local-gpt-content {
+  color: var(--text-faint);
+  display: block;
+  white-space: pre-wrap;
+  word-break: break-word;
+}
+.local-gpt-content > span:last-child {
+  display: inline;
+  background-image: linear-gradient(to right, var(--text-faint) 0%, var(--interactive-accent) 100%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  box-decoration-break: slice;
+}
+.local-gpt-loading {
+  display: inline-block;
+  overflow: hidden;
+  height: 1.3em;
+  line-height: 1.5em;
+  vertical-align: text-bottom;
+  margin: -0.3em 0.3em 0;
+}
+.local-gpt-thinking-container {
+  display: block;
+  opacity: 0;
+  animation: local-gpt-fadeIn 0.1s ease-out forwards;
+}
+@keyframes local-gpt-fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+.local-gpt-thinking {
+  position: relative;
+  display: inline-block;
+  color: var(--interactive-accent);
+  font-style: italic;
+  animation: local-gpt-pulse 1.7s ease-in-out infinite;
+}
+.local-gpt-thinking::before {
+  content: attr(data-text);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  color: var(--interactive-accent-hover);
+  display: inline-block;
+  white-space: nowrap;
+  filter: blur(2px);
+  mask-image: linear-gradient(to right, transparent 30%, black 50%, transparent 70%);
+  mask-size: 200% 100%;
+  mask-position: -50% 0;
+  animation: local-gpt-maskMove 1.7s linear infinite reverse;
+  mix-blend-mode: color-dodge;
+}
+.local-gpt-thinking::after {
+  content: "";
+  display: inline-block;
+  width: 1em;
+  text-align: left;
+  animation: local-gpt-dots 1.7s infinite;
+  opacity: 1;
+}
+.cm-editor .local-gpt-action-palette-container {
+  position: relative;
+  display: block;
+  padding: 0;
+  text-indent: 0;
+}
+.markdown-source-view.mod-cm6 .cm-content > .local-gpt-action-palette-container[contenteditable=false] {
+  contain: none !important;
+  overflow: visible;
+  margin: 0.3rem -10px 1.5rem !important;
+}
+.cm-editor .local-gpt-action-palette-shell {
+  display: inline-flex;
+  width: 100%;
+  padding: 2px 0;
+  position: relative;
+}
+.cm-editor .local-gpt-action-palette {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px 10px;
+  border-radius: 8px;
+  border: 2px solid var(--background-modifier-border);
+  background: var(--background-primary);
+  color: var(--text-normal);
+  font: inherit;
+  outline: none;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.15);
+  transition: border-color .12s ease, box-shadow .12s ease;
+}
+.cm-editor .local-gpt-model-badge {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: calc(var(--line-height-normal) * -1em);
+  padding: 2px 6px;
+  border-radius: var(--radius-m);
+  color: var(--text-faint);
+  background: var(--background-secondary);
+  border: 1px solid var(--background-modifier-border);
+  font-size: var(--font-ui-small);
+  font-weight: 300;
+  pointer-events: none;
+  z-index: -1;
+  display: grid;
+  align-items: end;
+  justify-items: end;
+  height: 3em;
+}
+.cm-editor .local-gpt-model-badge-label {
+  justify-self: end;
+  align-self: end;
+  font-size: var(--font-smallest);
+  line-height: var(--line-height-normal);
+}
+.cm-editor .local-gpt-action-palette:focus {
+  border-color: var(--interactive-accent);
+  box-shadow: 0 0 0 2px color-mix(in srgb, var(--interactive-accent) 20%, transparent), 0 4px 18px rgba(0, 0, 0, 0.18);
+}
+.cm-editor .local-gpt-fake-selection {
+  box-shadow: inset 0 0 0 9999px var(--text-selection), 0 0 0 calc((var(--line-height-normal) - 1) / 4 * 1em) var(--text-selection);
+  -webkit-box-decoration-break: clone;
+  box-decoration-break: clone;
+}
+@keyframes local-gpt-dots {
+  0% {
+    content: "";
+    opacity: 1;
+  }
+  59% {
+    content: "";
+    opacity: 1;
+  }
+  60% {
+    content: ".";
+    opacity: 1;
+  }
+  70% {
+    content: "..";
+    opacity: 1;
+  }
+  80% {
+    content: "...";
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.5;
+    content: "...";
+  }
+}
+@keyframes local-gpt-pulse {
+  0% {
+    opacity: 0.8;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.8;
+  }
+}
+.local-gpt-loading::after {
+  display: inline-table;
+  white-space: pre;
+  text-align: left;
+}
+.local-gpt-loading.local-gpt-dots::after {
+  content: "\280b\a\2819\a\2839\a\2838\a\283c\a\2834\a\2826\a\2827\a\2807\a\280f";
+  animation: local-gpt-spin10 1s steps(10) infinite;
+}
+.local-gpt-status {
+  position: relative;
+}
+.local-gpt-status::before {
+  content: attr(data-text);
+  background-image: linear-gradient(to right, var(--status-bar-text-color) 30%, var(--interactive-accent-hover) 50%, var(--status-bar-text-color) 70%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  box-decoration-break: slice;
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap;
+  animation: local-gpt-expandText 0.3s ease-out forwards, local-gpt-gradientMove 1.7s linear infinite;
+  background-size: 200% 100%;
+  background-position: -50% 0;
+}
+.local-gpt-status::after {
+  content: attr(data-text);
+  position: absolute;
+  padding: 10px;
+  margin-left: -10px;
+  color: var(--interactive-accent-hover);
+  display: inline-block;
+  white-space: nowrap;
+  filter: blur(1px);
+  mask-image: linear-gradient(to right, transparent 30%, black 50%, transparent 70%);
+  mask-size: 200% 100%;
+  mask-position: -50% 0;
+  animation: local-gpt-maskMove 1.7s linear infinite;
+  mix-blend-mode: color-dodge;
+}
+@keyframes local-gpt-spin10 {
+  to {
+    transform: translateY(-15em);
+  }
+}
+@keyframes local-gpt-expandText {
+  from {
+    max-width: 0;
+  }
+  to {
+    max-width: 100%;
+  }
+}
+@keyframes local-gpt-gradientMove {
+  0% {
+    background-position: -50% 0;
+  }
+  100% {
+    background-position: 150% 0;
+  }
+}
+@keyframes local-gpt-maskMove {
+  0% {
+    mask-position: -50% 0;
+  }
+  100% {
+    mask-position: 150% 0;
+  }
+}

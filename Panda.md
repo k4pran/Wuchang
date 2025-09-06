@@ -1,0 +1,1 @@
+Merchant that sells goods for bamboo shoots
