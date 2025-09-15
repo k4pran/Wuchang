@@ -7,3 +7,5 @@ Caused changes in creatures and nature like fireflies abdomens glowing with soft
 Capable of strengthening ones body
 
 Once its properties were known it spread across the land, but it had a side effect making users easy to anger
+
+[[Red Mercury]] ore was used to try and lengthen longevity and some theory think it can cure the [[Feathering]]

@@ -1,6 +1,29 @@
-Has early signs of [[Feathering]]
+---
+aliases:
+  - Bai Ziyun
+  - Bai Wuchang
+---
+Older sister of [[Bai Yu]]
+
+# Background
+
+Fled with her sister to the southern archipelago
+
+**March 11th Year** Met [[He Youzai]] on the misty seas when she was travelling with her sister [[Bai Yu]]
+
+Joined the ranks with [[He Youzai]] shown to be a capable fighter and the men began calling her [[Wuchang|Bai Wuchang]].
+
+**June** there was a clash with [[Li Jiao]] and [[Bai Yu]] fell (died)
+
+**July** she returned to her homeland seeking a way to bring her sister back from the dead, leaving only a letter behind
+
+**August** A message arrived back with [[He Youzai]] saying there is hope of bringing her sister back
+
+[[Wuchang]] ended up in the care of [[Qingyuan]], the taoist of the [[Reverent Temple]]. Has early signs of [[Feathering]]
 
 Began losing memory
+
+# Story
 
 Received a manuscript written on silk from a friend saying they would meet her at [[Worship's Rise]]
 
@@ -8,4 +31,6 @@ She carries a sword called "**[[Cloudfrost's Edge]]**", forged by a legendary sw
 
 She was searching for clues about her sister [[Bai Yu]] at [[Worship's Rise]] before she was attacked, she wrote to [[He Youzai]] about it.
 
-Fled with her sister to the southern archipelago
+
+
+[[Commander Honglan]] noticed [[Wuchang]] was of Bai lineage

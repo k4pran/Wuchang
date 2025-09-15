@@ -1,0 +1,1 @@
+Pursued the arcane arts during the reign of [[Chongzhen]] through a vision he received in a dream

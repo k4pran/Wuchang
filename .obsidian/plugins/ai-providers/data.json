@@ -1,0 +1,18 @@
+{
+  "_version": 1,
+  "debugLogging": false,
+  "useNativeFetch": false,
+  "providers": [
+    {
+      "id": "id-1757183899479",
+      "name": "Ollama",
+      "apiKey": "",
+      "url": "http://localhost:11434",
+      "type": "ollama",
+      "model": "deepseek-r1:8b",
+      "availableModels": [
+        "deepseek-r1:8b"
+      ]
+    }
+  ]
+}

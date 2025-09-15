@@ -1,0 +1,1 @@
+Seems a woman warned someone not to drink from it, they ignored this and drank anyway, then they said they felt like something was growing inside them. Only maids and the [[Tang Emperor]] was allowed to enter the hall of music so I wonder was it him talking to a maid?

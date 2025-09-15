@@ -1,0 +1,1 @@
+[[Yu Xia]] mentioned this person ravaged [[Shu]], but he is dead and that his body is being taken to [[Zhenwu Temple]] by [[Liu Wenxiu]]
