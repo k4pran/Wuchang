@@ -1,0 +1,1 @@
+An era of [[Shu]] where [[White-Robed Elder]] tales are from.  

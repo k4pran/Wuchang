@@ -1,0 +1,1 @@
+Leader of the [[Great Yonder Gang]] seeking to overthrow [[Madam Huang Yan|Madame]] in [[Cloudspire]]**

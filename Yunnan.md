@@ -1,0 +1,1 @@
+A place [[Sun Kewang]] and [[Li Dingguo]] planned to return to to rebuild their forces after the failure of their brothers and second death of their foster father [[Zhang Xianzhong]]

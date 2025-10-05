@@ -12,4 +12,10 @@ Met again at [[Cloudspire]]
 
 She is now the last disciple of [[Zhenwu Temple]]. She said it was the rebels that tore her temple apart
 
-Asked [[Wuchang]] to deliver something to someone called "Li" (I know a few Li's)
+Asked [[Wuchang]] to deliver the [[Zhenwu Temple]] tome to [[Li Wansan]], a treasurer of [[Snowfall Palace]]. He had been trying to get the tomb for a while now. 
+
+[[Wuchang]] give her the "Red Mercury Crystal" that she got from [[Li Wansan]] and she said he her business is concluded so she will return to [[Zhenwu Temple]]
+
+She fought the rebels at [[Zhenwu Temple]]
+
+Helped [[Wuchang]] kill the resurrected [[Zhang Xianzhong]] but died in the battle (maybe)

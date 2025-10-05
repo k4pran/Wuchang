@@ -1,0 +1,1 @@
+A relic of [[War of the Ancients]]. Was owned by [[White-Robed Elder]]

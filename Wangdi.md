@@ -1,0 +1,1 @@
+Blood of [[Wangdi]] is pure [[Avian]] blood

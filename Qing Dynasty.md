@@ -1,0 +1,1 @@
+Dynasty that took over when [[Ming Dynasty]] fell

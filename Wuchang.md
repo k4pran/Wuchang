@@ -3,7 +3,7 @@ aliases:
   - Bai Ziyun
   - Bai Wuchang
 ---
-Older sister of [[Bai Yu]]
+*Older* sister of [[Bai Yu]]
 
 # Background
 
@@ -32,5 +32,15 @@ She carries a sword called "**[[Cloudfrost's Edge]]**", forged by a legendary sw
 She was searching for clues about her sister [[Bai Yu]] at [[Worship's Rise]] before she was attacked, she wrote to [[He Youzai]] about it.
 
 
-
 [[Commander Honglan]] noticed [[Wuchang]] was of Bai lineage
+
+Research notes from [[Snowfall Palace]] suggest that the resurrection method being used here was somehow tied to the bai family and a curious object seems to have played a role
+
+Set [[Commander Honglan]] free in [[Shaft]], [[Commander Honglan]] said their debt is settled but not to expect mercy on their next meeting
+
+Here sister [[Bai Yu]] gifted her a pinwheel.
+
+She had a brother but not sure yet what happened to him - [[Bai Kru]], he was resurrected with the incomplete relic so became a [[Feathering]] monster.
+
+[[He Youzai]] suggested we need all four ancient chisels to resurrect [[Bai Yu]] correctly
+

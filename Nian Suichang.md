@@ -7,3 +7,11 @@ Trying to find medicine to heal his brother and wants [[Wuchang]] to get some el
 After defeating the transformed [[Lu Bingzhang]], [[Wuchang]] give the "mercurial blood" that was the priest's essence left over to [[Nian Suichang]] to help his brother.
 
 Met him again at [[Hillswatch]], he crossed swords with [[Ai Nengqi]]
+
+Met again at [[Mt Zhenu]] at the refugee camp
+
+Wants to kill [[Zhang Xianzhong]] now that he is resurrected
+
+After helping [[Wuchang]] fight [[Zhang Xianzhong]] he said he is heading back to [[Worship's Rise]]
+
+His cure failed and his brother died

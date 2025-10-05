@@ -1,0 +1,1 @@
+A voice mentioned sealing [[Bieling]] being difficult after [[Wuchang]] sacrificed to the [[Primordial Deity]] in [[Bo Capital]]

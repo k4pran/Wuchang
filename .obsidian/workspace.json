@@ -1559,16 +1559,488 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hillswatch Female Servant.md",
+                "file": "Duke Liu Cheng'en.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hillswatch Female Servant"
+              "title": "Duke Liu Cheng'en"
+            }
+          },
+          {
+            "id": "223af7ff22f6804e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "He Youzai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "He Youzai"
+            }
+          },
+          {
+            "id": "6be2699c1ce46dcc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fang Yao.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fang Yao"
+            }
+          },
+          {
+            "id": "945bf90019b6f602",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Great Yonder Gang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Great Yonder Gang"
+            }
+          },
+          {
+            "id": "61c0e0d4e4d5fe00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Great Yonder Gang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Great Yonder Gang"
+            }
+          },
+          {
+            "id": "06c7d2bb42a6a156",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Great Yonder Gang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Great Yonder Gang"
+            }
+          },
+          {
+            "id": "49c44861be8a9954",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Apothecary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Apothecary"
+            }
+          },
+          {
+            "id": "9c6536a815da61b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fang Yao.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fang Yao"
+            }
+          },
+          {
+            "id": "63e81ef95cc9e3ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bai Mansion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bai Mansion"
+            }
+          },
+          {
+            "id": "3db1ad4c5b931d85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shaft.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shaft"
+            }
+          },
+          {
+            "id": "1be7601a95a5a662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mysteries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mysteries"
+            }
+          },
+          {
+            "id": "046ac6a81552cd78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master Bai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Master Bai"
+            }
+          },
+          {
+            "id": "149b277fd585e756",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "War of the Ancients.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "War of the Ancients"
+            }
+          },
+          {
+            "id": "c230c30225132d70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yu Xia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yu Xia"
+            }
+          },
+          {
+            "id": "6da3b12d396415b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "He Youzai.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "He Youzai"
+            }
+          },
+          {
+            "id": "81ef667256fb215f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "White-Robed Elder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "White-Robed Elder"
+            }
+          },
+          {
+            "id": "4a55f0b71d39fe19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Magalhaes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Magalhaes"
+            }
+          },
+          {
+            "id": "1120e81742efb80b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Buglio.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Buglio"
+            }
+          },
+          {
+            "id": "54fc71335ea80c32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zhang Xianzhong.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zhang Xianzhong"
+            }
+          },
+          {
+            "id": "1368054441dfaa17",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zhenwu Temple.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zhenwu Temple"
+            }
+          },
+          {
+            "id": "38fe367d03349cc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zhenwu Temple.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zhenwu Temple"
+            }
+          },
+          {
+            "id": "acaf449d519417ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pavilion of Knowledge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pavilion of Knowledge"
+            }
+          },
+          {
+            "id": "03161e7db40bc7a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zhenwu Temple.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zhenwu Temple"
+            }
+          },
+          {
+            "id": "2155da5789e785a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zhang Xianzhong.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zhang Xianzhong"
+            }
+          },
+          {
+            "id": "2cd4072daffd532e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shu Manor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shu Manor"
+            }
+          },
+          {
+            "id": "d2dc7dbea155c4dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sun Kewang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sun Kewang"
+            }
+          },
+          {
+            "id": "b738fb915805e90a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ai Nengqi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ai Nengqi"
+            }
+          },
+          {
+            "id": "0bcb5f0ca671f2be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Four Sworn Sons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Four Sworn Sons"
+            }
+          },
+          {
+            "id": "fedec7b33a8d3581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sun Kewang.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sun Kewang"
+            }
+          },
+          {
+            "id": "f625d27178f969bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bai Tingzhao.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bai Tingzhao"
+            }
+          },
+          {
+            "id": "667a8919ec3ca242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zhang Xianzhong.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Zhang Xianzhong"
+            }
+          },
+          {
+            "id": "64c13ca77f38da66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bai Tingzhao.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bai Tingzhao"
+            }
+          },
+          {
+            "id": "318ec8dc7c80cdaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mysteries.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mysteries"
+            }
+          },
+          {
+            "id": "31a39aa73006c505",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Xuanyangzi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Xuanyangzi"
             }
           }
         ],
-        "currentTab": 111
+        "currentTab": 144
       }
     ],
     "direction": "vertical"
@@ -1600,7 +2072,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dynas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -1728,33 +2200,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cbf7a80d4b781e3",
+  "active": "31a39aa73006c505",
   "lastOpenFiles": [
-    "Ai Nengqi.md",
-    "Mysteries.md",
-    "Lightzen Temple.md",
-    "Nian Suichang.md",
-    "Ming Dynasty.md",
-    "Commander Honglan.md",
-    "Mort Grotto.md",
-    "Huang Jian'e.md",
-    "White-Robed Elder.md",
-    "Cloudspire.md",
-    "Qiao Ying.md",
-    "Sun Kewang.md",
-    "Li Dingguo.md",
-    "Hillswatch.md",
-    "The Apothecary.md",
-    "Snowfall Palace.md",
-    "Lady.md",
-    "Hillswatch Female Servant.md",
+    "Red-Clad Lady.md",
+    "Xuanyangzi.md",
+    "Bo Magus.md",
     "Wuchang.md",
-    "Qingyuan.md",
-    "Li Jiao.md",
-    "Bai Yu.md",
-    "Burning Cave.md",
-    "Tang Palace Maid.md",
-    "Liu Wenxiu.md",
-    "Yu Xia.md"
+    "White-Robed Elder.md",
+    "Three Kingdoms.md",
+    "White General.md",
+    "Cyan Feather Chisel.md",
+    "Avian.md",
+    "Storyteller.md",
+    "Bo Capital.md",
+    "Red Mercury.md",
+    "Primordial Deity.md",
+    "Bieling.md",
+    "Chongzhen.md",
+    "Mysteries.md",
+    "Zhu Youjian.md",
+    "The Hall of Ascension.md",
+    "Vermilion Ancient Chisel.md",
+    "Samsara.md",
+    "Young Boy.md",
+    "Bo.md",
+    "Yu Xia.md",
+    "Bai Tingzhao.md",
+    "Qianhu.md",
+    "Qiao Lin.md"
   ]
 }

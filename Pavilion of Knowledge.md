@@ -1,0 +1,1 @@
+A location in [[Zhenwu Temple]] where an ancient artifact was stolen

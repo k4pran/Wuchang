@@ -5,3 +5,7 @@ A certain people
 [[Bo]] people seem to have some link with madness and demons, [[Bo]] blood wakens latent power of madness
 
 Legend says blood of the ancient [[Bo]] nourished sea lilies granting them strength but at a steep price
+
+They believed hanging coffins would allow their dead to ascend to [[Avian]]'s as they grow wings
+
+The eye symbol are the mark of the [[Bo]] people

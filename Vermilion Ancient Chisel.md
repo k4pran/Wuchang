@@ -1,0 +1,1 @@
+One of the relics from [[War of the Ancients]] used by [[Chongzhen]] [[Ming Dynasty]] loyalists to revive him

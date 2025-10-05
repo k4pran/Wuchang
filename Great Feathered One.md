@@ -1,0 +1,1 @@
+The [[Bo]] people in ancient [[Shu]] would hand dead in coffins and it is said they would one day take flight and go to nearby forests. Rumours of the [[Great Feathered One]] appeared out of these legends, and where it is there is great treasure

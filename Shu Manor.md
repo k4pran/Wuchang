@@ -1,0 +1,1 @@
+A manor in the land of [[Shu]] that [[Zhang Xianzhong]] and the rebels plundered

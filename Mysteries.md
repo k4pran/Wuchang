@@ -1,11 +1,13 @@
 - Quote from a murial says "Mysty [[Shu]] peaks hide secret paths, while my heart's call echoes in the cuckoos cry"
-- Letter from [[Commander Honglan]] about [[Burning Cave]]
-- The [[Shu Sanctum]] key has "Great Feathered One" and "[[Bo]]" carved into it
+- Letter from [[Commander Honglan]] about [[Burning Cave]] - **letter was to [[Yu Xia]] and [[Burning Cave]] turned out to hide a secret passage to [[Bo Capital]] if thats related?**
+- The [[Shu Sanctum]] key has "Great Feathered One" and "[[Bo]]" carved into it - **[[Bo]] refers to the [[Bo]] people and [[Shu Sanctum]] was a target of [[Red-Clad Lady]] to bring her people back causing havoc at [[Worship's Rise]]**
 - A woman (maybe [[Wan]]) at **[[Bamboo Courtyard]]** (think its called that) in [[Worship's Rise]] said a mad monk took her brother and mother to the courtyard where the theatre troupe is, her father went after them but didn't come back. Found the [[Yang Zongbao]] dough figuring and give it to her. Her father promised to give it to her when she returned so she realises he is dead. Plans to go to the [[Reverent Temple]]
 - After beating a boss it says "Sankhara [[Wuchang]]", is that he full name or something else?
 - The centipede Says "Why did you betray me sister", who was he referring to ? [[Wuchang]]?
 - Golden statue near [[Shu Sanctum]] says ""The ebb and flow of karma... it's something you must face alone. Stand before the deities statue and conquer the demons within"
-- A statue requires a "buddha" to slot in at [[Tang Emperor Palace]] where [[Plain Warrioress]] was standing
+- A statue requires a "buddha" to slot in at [[Tang Emperor Palace]] where [[Plain Warrioress]] was standing - **think this was a key one of the maids had**
 - A woman at the entrance to [[Cloudspire]] in fear kept saying "Amitabha" - think its a buddhist chant meaning "limitless light"
-- There is a door in the [[Cloudspire]] mines that says [[Wuchang]] needs to follow the teachings of [[Primordial Deity]] to enter
-- [[Ai Nengqi]] said "with the **chisel** he will claim the throne" whatever that means
+- There is a door in the [[Cloudspire]] mines that says [[Wuchang]] needs to follow the teachings of [[Primordial Deity]] to enter - **Just needed to enter from the other side**
+- [[Ai Nengqi]] said "with the **chisel** he will claim the throne" whatever that means - **Lots of chisels now - [[Ancient Chisel]], [[Jade Ancient Chisel]], [[Aurum Ancient Chisel]], [[Vermilion Ancient Chisel]], all powerful and can alter fates and resurrect**
+- [[He Youzai]] noticed from research notes there is something about the [[Ancient Chisel]] and about 4 objects that together create some relic.- **yep same as above**
+- A letter left at [[Bo Capital]] gives a thank you for saving "his majesty" from peril, the debt will not be forgotten. They said they will travel with him to a land far away to rest and recuperate. Best guess is the majesty is [[Chongzhen]]?
